@@ -1,0 +1,25 @@
+{
+  "name": "developer-portfolio",
+  "version": "1.0.0",
+  "description": "A simple portfolio showcasing my skills as a Developer for hire!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \\\"Running test command \\'echo' and loving it\\\""
+  },
+  "keywords": [
+    "developer",
+    "portfolio",
+    "freelance",
+    "web-developer"
+  ],
+  "author": "saadzafar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
