@@ -1,9 +1,11 @@
 {
-  "name": "developer-portfolio",
+  "name": "developer-portfolio-dec2020",
   "version": "1.0.0",
   "description": "A simple portfolio showcasing my skills as a Developer for hire!",
   "main": "index.html",
   "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
     "test": "echo \\\"Running test command \\'echo' and loving it\\\""
   },
   "keywords": [

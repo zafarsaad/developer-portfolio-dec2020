@@ -1,0 +1,26 @@
+This is a test of the IntelliJ Editor:
+
+---------
+
+Portfolio Ideas
+
+1. Portfolio Website
+    - https://wireframe.cc/BjBMyv
+2. Business Website
+3. Photography Website
+4. Mockup Cafe Website
+
+
+Process:
+- new dir
+- npm -v to check it's running/installed
+- npm init to initialize a project
+    - this walks through various configurations such as name, author, version, git, test-cmds
+- npm to install bootstrap, lite-server, jQuery, Popper etc
+    - npm start doesn't work
+    - nor does ng server
+    - nor does npm run lite-server
+    - adding scripts to package.json makes npm start work
+    - !*! figure out why this is!
+    - !*! Class Bootstrap project used Bootstrap Columbs to push elements left
+        - Here we're using CSS "justify-content: flex-end;"
